@@ -1,1 +1,1 @@
-# Sultan Hello world im sultan
+# Diagnose Disease App Project group C 
